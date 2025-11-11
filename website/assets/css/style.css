@@ -85,22 +85,22 @@ body{
         width: 98%;
     }
     p {
-        font-size: 1rem;
+        font-size: 1.8rem;
         font-weight: 500;
         width: 98%;
     }
     }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 460px) {
   .css-text {
     h1 {
-        font-size: 2rem;
+        font-size: 2.2rem;
         font-weight: 600;
         width: 98%;
     }
     p {
-        font-size: 1rem;
+        font-size: 1.2rem;
         font-weight: 500;
         width: 98%;
     }
