@@ -118,3 +118,9 @@ body{
   margin-right: 40px;
   width: auto;
 }
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+}
