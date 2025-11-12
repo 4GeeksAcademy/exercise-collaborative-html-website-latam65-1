@@ -85,24 +85,49 @@ body{
         width: 98%;
     }
     p {
-        font-size: 1rem;
+        font-size: 1.8rem;
         font-weight: 500;
         width: 98%;
     }
     }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 460px) {
   .css-text {
     h1 {
-        font-size: 2rem;
+        font-size: 2.2rem;
         font-weight: 600;
         width: 98%;
     }
     p {
-        font-size: 1rem;
+        font-size: 1.2rem;
         font-weight: 500;
         width: 98%;
     }
     }
+}
+
+.portfolio-html {
+  margin-top: 150px;
+  margin-bottom: 150px;
+  margin-right: 40px;
+  margin-left: 40px;
+  width: auto;
+}
+
+.tarjetas-portfolio {
+  width: 80%;
+  margin: auto;
+}
+
+.contact-html {
+  margin-left: 40px;
+  margin-right: 40px;
+  width: auto;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
 }
