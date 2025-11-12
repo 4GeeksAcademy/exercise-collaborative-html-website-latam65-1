@@ -108,9 +108,16 @@ body{
 }
 
 .portfolio-html {
+  margin-top: 150px;
+  margin-bottom: 150px;
   margin-right: 40px;
   margin-left: 40px;
   width: auto;
+}
+
+.tarjetas-portfolio {
+  width: 80%;
+  margin: auto;
 }
 
 .contact-html {
